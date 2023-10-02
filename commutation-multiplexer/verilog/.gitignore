@@ -1,0 +1,5 @@
+*.json
+*.asc
+*.rpt
+*.bin
+*yosys.log
