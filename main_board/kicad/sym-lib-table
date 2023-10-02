@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "2022-lsd")(type "KiCad")(uri "${KIPRJMOD}/lib/2022-09-15_Kicad_Library_Magni/2022-lsd.kicad_sym")(options "")(descr ""))
+)
