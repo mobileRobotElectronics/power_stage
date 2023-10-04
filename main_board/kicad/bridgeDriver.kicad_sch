@@ -978,7 +978,7 @@
     (property "Reference" "R30" (at 105.41 104.14 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "50k" (at 105.41 106.68 0)
+    (property "Value" "30k" (at 105.41 106.68 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 101.092 105.41 90)

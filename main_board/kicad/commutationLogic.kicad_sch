@@ -658,7 +658,7 @@
     (property "Reference" "R29" (at 181.61 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "50k" (at 181.61 96.52 0)
+    (property "Value" "30k" (at 181.61 96.52 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 177.292 95.25 90)
