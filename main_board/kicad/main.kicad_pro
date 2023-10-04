@@ -501,6 +501,18 @@
     [
       "dc2af56c-b2eb-4bc0-85a6-eb2b4572c372",
       "commutationLogic"
+    ],
+    [
+      "fbdcc8f5-3f4a-4b6d-8bd9-dcde8bb62812",
+      "bridge1"
+    ],
+    [
+      "9bcba079-9422-42f1-a7c0-49fe4d0b5e5a",
+      "bridgeDriver1"
+    ],
+    [
+      "21e3062f-2987-468e-b7db-15fd2b471825",
+      "commutationLogic1"
     ]
   ],
   "text_variables": {}
