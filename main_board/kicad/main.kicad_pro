@@ -487,32 +487,40 @@
       "attiny13"
     ],
     [
-      "2bccd4f1-b739-4e07-a189-131f62508a72",
-      "bridge"
+      "b730c020-dbf9-4624-b380-91471479f30c",
+      "MotorMagic1"
     ],
     [
-      "f375863d-6ceb-4c75-8514-48e21c11bcc5",
-      "bridgeDriver"
+      "0d2bed70-5049-4de0-a573-b94a3db580ed",
+      "commutationLogic2"
     ],
     [
       "4605f0e7-6d1c-410b-b12b-1c5d8b870a3a",
       "stepDown-24-15"
     ],
     [
-      "dc2af56c-b2eb-4bc0-85a6-eb2b4572c372",
-      "commutationLogic"
+      "4903fc77-158c-4e4e-9ffc-8865d087d3f3",
+      "bridge2"
     ],
     [
-      "fbdcc8f5-3f4a-4b6d-8bd9-dcde8bb62812",
-      "bridge1"
+      "a16a43cc-091f-454c-bc41-f84655bef65e",
+      "bridgeDriver2"
     ],
     [
-      "9bcba079-9422-42f1-a7c0-49fe4d0b5e5a",
-      "bridgeDriver1"
+      "bd668ffa-15ac-402b-b975-3545159b9a29",
+      "MotorMagic"
     ],
     [
-      "21e3062f-2987-468e-b7db-15fd2b471825",
-      "commutationLogic1"
+      "0d2bed70-5049-4de0-a573-b94a3db580ed",
+      "commutationLogic2"
+    ],
+    [
+      "a16a43cc-091f-454c-bc41-f84655bef65e",
+      "bridgeDriver2"
+    ],
+    [
+      "4903fc77-158c-4e4e-9ffc-8865d087d3f3",
+      "bridge2"
     ]
   ],
   "text_variables": {}
