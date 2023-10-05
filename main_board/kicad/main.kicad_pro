@@ -487,24 +487,24 @@
       "attiny13"
     ],
     [
-      "b730c020-dbf9-4624-b380-91471479f30c",
+      "2db218d0-8b01-4da6-8935-13d565fba4cd",
       "MotorMagic1"
-    ],
-    [
-      "0d2bed70-5049-4de0-a573-b94a3db580ed",
-      "commutationLogic2"
-    ],
-    [
-      "4605f0e7-6d1c-410b-b12b-1c5d8b870a3a",
-      "stepDown-24-15"
     ],
     [
       "4903fc77-158c-4e4e-9ffc-8865d087d3f3",
       "bridge2"
     ],
     [
+      "4605f0e7-6d1c-410b-b12b-1c5d8b870a3a",
+      "stepDown-24-15"
+    ],
+    [
       "a16a43cc-091f-454c-bc41-f84655bef65e",
       "bridgeDriver2"
+    ],
+    [
+      "0d2bed70-5049-4de0-a573-b94a3db580ed",
+      "commutationLogic2"
     ],
     [
       "bd668ffa-15ac-402b-b975-3545159b9a29",
