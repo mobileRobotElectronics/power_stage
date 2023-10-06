@@ -844,7 +844,7 @@
     (property "Value" "LM2576S-5" (at 143.51 90.17 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:TO-263-5_TabPin3" (at 143.51 104.14 0)
+    (property "Footprint" "Package_TO_SOT_THT:TO-220-5_Vertical" (at 143.51 104.14 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2576.pdf" (at 143.51 97.79 0)

@@ -3115,7 +3115,7 @@
     (property "Value" "AVR-ISP-10" (at 36.83 73.66 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical" (at 39.37 72.39 90)
+    (property "Footprint" "Connector_IDC:IDC-Header_2x06_P2.54mm_Horizontal" (at 39.37 72.39 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (at 13.335 87.63 0)

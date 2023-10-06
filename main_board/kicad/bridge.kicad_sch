@@ -995,7 +995,7 @@
     )
   )
 
-  (symbol (lib_id "Device:R") (at 113.03 64.77 90) (unit 1)
+  (symbol (lib_id "Device:R") (at 113.03 64.77 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b3e948eb-2fb6-49a4-9f6e-8113c074a81f)
     (property "Reference" "R38" (at 113.03 67.31 90)
